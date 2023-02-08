@@ -9,6 +9,7 @@
 <a href="https://instagram.com/Zn3y" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ## Tech Stack 💻
+
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -69,16 +70,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Vishwa Gaurav
-```
-
-
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
