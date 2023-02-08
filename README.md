@@ -1,13 +1,33 @@
 ### Hi 👋🏻, I'm **Zn3y** is a ✨ _special_ ✨.
 
-Here are some ideas to get you started:
+Tech Stack 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Languages
+Java JavaScript C CSS3 HTML5 Markdown Lua
 
+JS Framework/Library
+Next JS React Threejs Angular
+
+CSS Framework/Library/Pre-processors
+TailwindCSS Bootstrap MUI PostCSS SASS
+
+Design/Visual Tools
+Figma Framer Adobe Lightroom Canva Adobe After Effects Adobe Premiere Pro
+
+Database/State
+Firebase MongoDB MobX
+
+Backend
+NodeJS Express.js API
+
+Web Hosting
+Vercel Heroku Firebase GitHub Pages Netlify
+
+CI/CD
+CircleCI GitHub Actions Jenkins
+
+Package Manager
+NPM Yarn
+
+Version Control
+Git GitHub
