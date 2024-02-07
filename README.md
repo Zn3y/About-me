@@ -44,6 +44,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
+#### CMS
+![Wordpress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white&color=black&cacheSeconds=wordpress)
+
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
