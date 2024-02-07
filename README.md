@@ -30,7 +30,7 @@
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/Mysql-black?style=flat&logo=Mysql&logoColor=white&color=black&cacheSeconds=Mysql)
 
 
 #### Backend
