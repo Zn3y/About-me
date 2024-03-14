@@ -16,8 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white&color=black&cacheSeconds=Mysql)
 ![Php](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&logoColor=white&color=black&cacheSeconds=PHP)
 
-
-
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
